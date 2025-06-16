@@ -1,16 +1,13 @@
 # timeline
 
-This repository contains a simple timeline web app. At the moment it includes a basic Python script that can be expanded into a more complete application. 
+This repository contains a simple timeline web app. The project now provides a basic HTML page that can be viewed in any modern browser.
+
 ## Running
 
-Use Python 3 to run `main.py` and call `hello()`:
-
-```bash
-python3 -c "import main; main.hello()"
-```
+Open `index.html` in your preferred web browser. If you want to add additional client-side functionality, edit `script.js`.
 
 Future versions may require additional setup or a web server.
 
 ## Prerequisites
 
-- Python 3.x
+- A modern web browser
